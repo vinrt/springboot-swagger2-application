@@ -45,3 +45,5 @@ A step by step series of examples that tell you how to get this project running
 
 * Swagger Inspector
 * Spring Boot 2.1.1 
+* http://localhost:8088/swagger-ui.html
+
