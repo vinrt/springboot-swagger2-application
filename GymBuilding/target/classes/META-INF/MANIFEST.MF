@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: GymBuilding
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vinayraghavtiwari
+Implementation-Vendor-Id: com.spring.vin
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/GymBuilding
+Created-By: Maven Integration for Eclipse
+
